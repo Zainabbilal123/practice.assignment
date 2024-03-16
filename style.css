@@ -1,0 +1,48 @@
+
+
+body{
+    background-color: rgb(48, 88, 88);
+    
+}
+H1{
+    text-align: center;
+    color: white;
+}
+input{
+    text-align: center;
+    border-radius: 20px;
+    width: 150px;
+}
+form{
+    text-align: center;
+    border-radius: 40%;
+    padding-bottom: 50px;
+    
+}
+button{
+    border-radius: 10px;
+    width: 120px;
+    color:black;
+    font-size: medium;
+
+}
+
+div{
+    margin-inline-end: 50px ;
+    padding-inline-start: 50px;
+    max-width:min-content;
+    
+    
+
+}
+
+    
+    
+    
+    
+    
+
+    
+    
+
+    
